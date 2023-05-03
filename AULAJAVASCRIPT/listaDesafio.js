@@ -18,9 +18,9 @@ const nota3 = 4;
 
 const media = (nota1 + nota2 + nota3) / 3;
 
-if (media <= 5){
+if (media < 5){
     console.log('Sua nota foi' + {media} + 'e você está reprovado');
-}if (media >= 5 && media <= 7) {
+}else if (media >= 5 && media <= 7) {
     console.log('Sua nota foi' + {media} + 'e você está de recuperação');
 } else {
     console.log('Sua nota foi acima de 7  e você passou de semetre');
