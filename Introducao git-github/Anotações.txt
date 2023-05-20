@@ -1,0 +1,5 @@
+
+
+Inicio das aulas de Angular, mais precisamente trabalhando com Componentes Angular. Com isso, passamos a utilizar
+inicialmete o StackBlitz.com para codar os nossos exemplos, mais adiante vimos a diferença entre as estruturas
+React e Vue. Criando componentes na prática, criando a estrutura de um componente, Interpolação de dados...
